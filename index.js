@@ -43,5 +43,5 @@ function preserveDecimal(n){
 
 return parseFloat(n)
 
-return n 
+return n
 }
