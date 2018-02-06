@@ -33,3 +33,8 @@ function makeInt(numString){
  return parseInt(numString, 10);
 
 }
+
+function preserveDecimal(n){
+
+return n 
+}
