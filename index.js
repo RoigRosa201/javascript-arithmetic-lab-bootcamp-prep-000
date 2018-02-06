@@ -30,5 +30,6 @@ function makeInt(n){
 
 function makeInt(numString){
 
-  return 10
+ return parseInt(numString, 10);
+
 }
