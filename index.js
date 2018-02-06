@@ -19,16 +19,16 @@ function inc(n){
   return n
 }
 
-function dec(n){
-  -- n;
-  return n
+function dec(num){
+  -- num;
+  return num
 }
 
 function makeInt(n){
   return n
 }
 
-function makeInt(10){
+function makeInt(numString){
 
   return 10
 }
