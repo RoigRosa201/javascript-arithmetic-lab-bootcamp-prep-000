@@ -36,5 +36,5 @@ function makeInt(numString){
 
 function preserveDecimal(n){
 
-return n 
+return n
 }
